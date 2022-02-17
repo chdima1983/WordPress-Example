@@ -1,5 +1,5 @@
 # WordPress
-This repository is an example of how to use WordPress. 
+This repository is an example of how to start WordPress (empty site, no content). 
 
 ## Getting Started
 
