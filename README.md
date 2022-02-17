@@ -1,7 +1,7 @@
-WordPress
+# WordPress
 This repository is an example of how to use WordPress. 
 
-Getting Started
+## Getting Started
 
 1. Open up a command line prompt.
 2. Clone the repo.
@@ -10,7 +10,7 @@ Getting Started
 5. Run docker-compose up -d.
 
 
-One command from the command line:
+## One command from the command line:
 
 git clone https://github.com/chdima1983/WordPress-Example.git && cd ./WordPress-Example && docker-compose up -d
 
