@@ -28,8 +28,6 @@ services:
    restart: always
    volumes:
      - db:/var/lib/mysql
-   ports: 
-     - 9906:3306
  
  phpmyadmin:
    image: phpmyadmin/phpmyadmin
